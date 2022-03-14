@@ -7,4 +7,5 @@ destination.
 
 The cooperation and the distribution of clients to the agents is done via
 an auction where the agents send their position and the number of clients
-they have in their queue.
+they have in their queue and the enviroment decides who gets the client
+or who proceeds to the next tile if there's conflict between the agents.
